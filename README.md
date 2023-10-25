@@ -2,7 +2,7 @@
 
 En esta ayudantía aprenderemos a cargar un código de BOOT a la Zybo programando su memoria flash por QSPI y ejercitaremos el modo Debug en Vitis, además del uso de funciones, macros y arreglos.
 
-1. Previo a nuestra ayudantía debes revisar este [video]() y ejecutarlo en tu casa.
+1. Previo a nuestra ayudantía debes revisar este [video](https://youtu.be/HEcVxrbAIDQ) y ejecutarlo en tu casa.
 
 2. Los documentos asociados a la ejecución de este laboratorio son:
     * [AYUD08-Guia Ejercicio](https://github.com/IEE2463-SEP/AYUD08-BOOT/blob/main/AYUD08_BOOT.pdf):  Guía de ejercicios asociado a la ayudantía. 
